@@ -25,16 +25,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MetaMask/jazzicon.git"
+    "url": "git+https://github.com/suenot/jazzicon.git"
   },
   "keywords": [
     "identicon",
     "jazz"
   ],
   "bugs": {
-    "url": "https://github.com/MetaMask/jazzicon/issues"
+    "url": "https://github.com/suenot/jazzicon/issues"
   },
-  "homepage": "https://github.com/MetaMask/jazzicon#readme",
+  "homepage": "https://github.com/suenot/jazzicon#readme",
   "engines": {
     "node": "^18.16 || >=20"
   }
