@@ -1,6 +1,6 @@
 {
   "name": "@suenot/jazzicon",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Jazzy deterministic identicons for a more entertaining future",
   "main": "index.js",
   "scripts": {
